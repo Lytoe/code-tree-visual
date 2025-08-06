@@ -1,8 +1,17 @@
-# Project Code Tree\n\n<details><summary>📂 **check-invalid-imports.js** (51 lines - 0.4%)</summary>
+# Project Code Tree\n\n<details><summary>📂 **check-invalid-imports.js** (51 lines - 0.3%)</summary>
 
-  <details><summary>📂 **check-invalid-imports.js** (51 lines - 0.4%)</summary>
+  <details><summary>📂 **check-invalid-imports.js** (51 lines - 0.3%)</summary>
 
-    - check-invalid-imports.js (51 lines - 0.4%)
+    - check-invalid-imports.js (51 lines - 0.3%)
+
+</details>
+
+</details>
+<details><summary>📂 **createSpeakFiles.js** (11 lines - 0.1%)</summary>
+
+  <details><summary>📂 **createSpeakFiles.js** (11 lines - 0.1%)</summary>
+
+    - createSpeakFiles.js (11 lines - 0.1%)
 
 </details>
 
@@ -25,9 +34,9 @@
 </details>
 
 </details>
-<details><summary>📂 **src** (14173 lines - 98.6%)</summary>
+<details><summary>📂 **src** (14497 lines - 98.5%)</summary>
 
-  <details><summary>📂 **features** (9754 lines - 67.8%)</summary>
+  <details><summary>📂 **features** (10136 lines - 68.9%)</summary>
 
     <details><summary>📂 **classifier** (38 lines - 0.3%)</summary>
 
@@ -96,32 +105,22 @@
 </details>
     <details><summary>📂 **library** (42 lines - 0.3%)</summary>
 
-      <details><summary>📂 **favorites** (0 lines - 0%)</summary>
-
-        - index.tsx (0 lines - 0%)
-
-</details>
-      <details><summary>📂 **story** (0 lines - 0%)</summary>
-
-        - index.tsx (0 lines - 0%)
-
-</details>
       <details><summary>📂 **ui** (42 lines - 0.3%)</summary>
 
-        - LibraryHubPage.module.css (22 lines - 0.2%)
+        - LibraryHubPage.module.css (22 lines - 0.1%)
         - LibraryHubPage.tsx (20 lines - 0.1%)
 
 </details>
 
 </details>
-    <details><summary>📂 **profile** (386 lines - 2.7%)</summary>
+    <details><summary>📂 **profile** (386 lines - 2.6%)</summary>
 
       <details><summary>📂 **model** (11 lines - 0.1%)</summary>
 
         - UserProfile.ts (11 lines - 0.1%)
 
 </details>
-      <details><summary>📂 **ui** (375 lines - 2.6%)</summary>
+      <details><summary>📂 **ui** (375 lines - 2.5%)</summary>
 
         - ProfilePage.js (214 lines - 1.5%)
         - ProfilePage.module.css (161 lines - 1.1%)
@@ -129,11 +128,11 @@
 </details>
 
 </details>
-    <details><summary>📂 **quiz** (2272 lines - 15.8%)</summary>
+    <details><summary>📂 **quiz** (2272 lines - 15.4%)</summary>
 
-      <details><summary>📂 **delf** (2080 lines - 14.5%)</summary>
+      <details><summary>📂 **delf** (2080 lines - 14.1%)</summary>
 
-        <details><summary>📂 **comprehensionOrale** (618 lines - 4.3%)</summary>
+        <details><summary>📂 **comprehensionOrale** (618 lines - 4.2%)</summary>
 
           <details><summary>📂 **infra** (45 lines - 0.3%)</summary>
 
@@ -156,7 +155,7 @@
             - evaluateComprehensionAnswers.test.ts (0 lines - 0%)
 
 </details>
-          <details><summary>📂 **ui** (413 lines - 2.9%)</summary>
+          <details><summary>📂 **ui** (413 lines - 2.8%)</summary>
 
             - AudioFlowController.tsx (56 lines - 0.4%)
             <details><summary>📂 **components** (48 lines - 0.3%)</summary>
@@ -187,7 +186,7 @@
 </details>
 
 </details>
-        <details><summary>📂 **hooks** (154 lines - 1.1%)</summary>
+        <details><summary>📂 **hooks** (154 lines - 1%)</summary>
 
           - useComprehensionSession.js (61 lines - 0.4%)
           - useProductionEcriteSession.js (93 lines - 0.6%)
@@ -196,11 +195,11 @@
         <details><summary>📂 **infra** (170 lines - 1.2%)</summary>
 
           - evaluateComprehensionAnswers.js (20 lines - 0.1%)
-          - evaluateWritingPrompt.js (22 lines - 0.2%)
+          - evaluateWritingPrompt.js (22 lines - 0.1%)
           - fetchProductionEvaluation.js (12 lines - 0.1%)
           - fetchQuizText.js (27 lines - 0.2%)
           - parseComprehensionQuiz.js (29 lines - 0.2%)
-          - parseWritingEvaluation.js (22 lines - 0.2%)
+          - parseWritingEvaluation.js (22 lines - 0.1%)
           - productionEcriteToPDF.js (38 lines - 0.3%)
 
 </details>
@@ -210,7 +209,7 @@
           - writingEvaluationPrompt.js (35 lines - 0.2%)
 
 </details>
-        <details><summary>📂 **ui** (1041 lines - 7.2%)</summary>
+        <details><summary>📂 **ui** (1041 lines - 7.1%)</summary>
 
           <details><summary>📂 **comprehensionEcrite** (179 lines - 1.2%)</summary>
 
@@ -227,7 +226,7 @@
           - DelfHubCard.js (18 lines - 0.1%)
           - DelfHubCard.module.css (41 lines - 0.3%)
           - FavoriteQuizPage.js (161 lines - 1.1%)
-          <details><summary>📂 **productionEcrite** (642 lines - 4.5%)</summary>
+          <details><summary>📂 **productionEcrite** (642 lines - 4.4%)</summary>
 
             - CEFRRadarChart.js (71 lines - 0.5%)
             - CEFRRadarChart.module.css (8 lines - 0.1%)
@@ -287,16 +286,16 @@
 </details>
 
 </details>
-    <details><summary>📂 **related** (223 lines - 1.6%)</summary>
+    <details><summary>📂 **related** (223 lines - 1.5%)</summary>
 
       <details><summary>📂 **infra** (85 lines - 0.6%)</summary>
 
         - fetchRelatedWords.js (85 lines - 0.6%)
 
 </details>
-      <details><summary>📂 **ui** (138 lines - 1%)</summary>
+      <details><summary>📂 **ui** (138 lines - 0.9%)</summary>
 
-        - RelatedWordsGraph.jsx (138 lines - 1%)
+        - RelatedWordsGraph.jsx (138 lines - 0.9%)
 
 </details>
 
@@ -310,7 +309,7 @@
 </details>
 
 </details>
-    <details><summary>📂 **sentence** (1555 lines - 10.8%)</summary>
+    <details><summary>📂 **sentence** (1555 lines - 10.6%)</summary>
 
       <details><summary>📂 **api** (19 lines - 0.1%)</summary>
 
@@ -328,14 +327,14 @@
         - SentenceResponseModel.ts (68 lines - 0.5%)
 
 </details>
-      <details><summary>📂 **prompts** (110 lines - 0.8%)</summary>
+      <details><summary>📂 **prompts** (110 lines - 0.7%)</summary>
 
-        - unifiedPromptBuilder.ts (110 lines - 0.8%)
+        - unifiedPromptBuilder.ts (110 lines - 0.7%)
 
 </details>
-      <details><summary>📂 **ui** (1168 lines - 8.1%)</summary>
+      <details><summary>📂 **ui** (1168 lines - 7.9%)</summary>
 
-        <details><summary>📂 **components** (433 lines - 3%)</summary>
+        <details><summary>📂 **components** (433 lines - 2.9%)</summary>
 
           - BackTranslationBlock.jsx (17 lines - 0.1%)
           - CompareSentencesBlock.jsx (20 lines - 0.1%)
@@ -344,7 +343,7 @@
           - HardPartsBlock.jsx (21 lines - 0.1%)
           - IdiomExplainerBlock.jsx (25 lines - 0.2%)
           - SentenceDialogueBlock.tsx (112 lines - 0.8%)
-          - SentenceHeaderBlock.jsx (36 lines - 0.3%)
+          - SentenceHeaderBlock.jsx (36 lines - 0.2%)
           - SentenceStructureBlock.jsx (44 lines - 0.3%)
           - SentenceTrainerBlock.jsx (15 lines - 0.1%)
           - SimplifiedSentenceBlock.tsx (29 lines - 0.2%)
@@ -354,12 +353,12 @@
 </details>
         - SentenceResponse.module.css (132 lines - 0.9%)
         - SentenceResponse.tsx (96 lines - 0.7%)
-        <details><summary>📂 **styles** (507 lines - 3.5%)</summary>
+        <details><summary>📂 **styles** (507 lines - 3.4%)</summary>
 
           - CompareSentencesBlock.module.css (31 lines - 0.2%)
           - ContextSuggestionBlock.module.css (11 lines - 0.1%)
           - EmotionLabelBlock.module.css (35 lines - 0.2%)
-          - HardPartsBlock.module.css (36 lines - 0.3%)
+          - HardPartsBlock.module.css (36 lines - 0.2%)
           - IdiomExplainerBlock.module.css (28 lines - 0.2%)
           - SentenceDialogueBlock.module.css (37 lines - 0.3%)
           - SentenceHeaderBlock.module.css (32 lines - 0.2%)
@@ -382,43 +381,69 @@
 </details>
 
 </details>
-    <details><summary>📂 **speak** (902 lines - 6.3%)</summary>
+    <details><summary>📂 **speak** (1284 lines - 8.7%)</summary>
 
-      <details><summary>📂 **hooks** (63 lines - 0.4%)</summary>
+      <details><summary>📂 **domain** (77 lines - 0.5%)</summary>
 
-        - useSpeechRecognition.js (63 lines - 0.4%)
-
-</details>
-      <details><summary>📂 **infra** (209 lines - 1.5%)</summary>
-
-        - continue.js (41 lines - 0.3%)
-        - evaluateUserSpeech.js (44 lines - 0.3%)
-        - fetchSpeakingPrompt.js (12 lines - 0.1%)
-        - opening.js (23 lines - 0.2%)
-        - prompt.js (24 lines - 0.2%)
-        - saveSpeakingLog.js (38 lines - 0.3%)
-        - suggest.js (27 lines - 0.2%)
+        - Feedback.ts (9 lines - 0.1%)
+        - Message.ts (13 lines - 0.1%)
+        - Scenario.ts (12 lines - 0.1%)
+        - SessionState.ts (43 lines - 0.3%)
 
 </details>
-      <details><summary>📂 **prompts** (35 lines - 0.2%)</summary>
+      <details><summary>📂 **infra** (189 lines - 1.3%)</summary>
 
-        - speakingPromptBuilder.js (35 lines - 0.2%)
-
-</details>
-      <details><summary>📂 **ui** (595 lines - 4.1%)</summary>
-
-        - SpeakingCoach.js (31 lines - 0.2%)
-        - SpeakingLoop.js (142 lines - 1%)
-        - SpeakingScenarioCard.js (22 lines - 0.2%)
-        - SpeakingScenarioCard.module.css (45 lines - 0.3%)
-        - SpeakingSessionPage.js (250 lines - 1.7%)
-        - SpeakingSessionPage.module.css (59 lines - 0.4%)
-        - SpeakPage.module.css (46 lines - 0.3%)
+        - firestoreAdapter.ts (27 lines - 0.2%)
+        - llmAdapter.ts (92 lines - 0.6%)
+        - scenarioRepository.ts (40 lines - 0.3%)
+        - speechRecognitionAdapter.ts (11 lines - 0.1%)
+        - translationAdapter.ts (14 lines - 0.1%)
+        - ttsAdapter.ts (5 lines - 0%)
 
 </details>
+      <details><summary>📂 **styles** (198 lines - 1.3%)</summary>
+
+        - ChatArea.module.css (27 lines - 0.2%)
+        - ChatBubble.module.css (50 lines - 0.3%)
+        - FeedbackPanel.module.css (7 lines - 0%)
+        - InputControls.module.css (29 lines - 0.2%)
+        - NotesPanel.module.css (38 lines - 0.3%)
+        - ProgressPanel.module.css (20 lines - 0.1%)
+        - SpeakingSessionPage.module.css (8 lines - 0.1%)
+        - SuggestionsPanel.module.css (19 lines - 0.1%)
 
 </details>
-    <details><summary>📂 **story** (1271 lines - 8.8%)</summary>
+      <details><summary>📂 **ui** (627 lines - 4.3%)</summary>
+
+        - 1HintPanel.tsx (51 lines - 0.3%)
+        - AvatarCoach.tsx (7 lines - 0%)
+        - ChatArea.tsx (32 lines - 0.2%)
+        - ChatBubble.tsx (102 lines - 0.7%)
+        - FeedbackPanel.tsx (18 lines - 0.1%)
+        - InputControls.tsx (77 lines - 0.5%)
+        - KeyPhrasesPanel.tsx (38 lines - 0.3%)
+        - NotesPanel.tsx (83 lines - 0.6%)
+        - ProgressPanel.tsx (19 lines - 0.1%)
+        - ReviewPanel.tsx (50 lines - 0.3%)
+        - ScenarioSelector.tsx (30 lines - 0.2%)
+        - SpeakingSessionPage.tsx (120 lines - 0.8%)
+
+</details>
+      <details><summary>📂 **usecases** (193 lines - 1.3%)</summary>
+
+        - addWordToFavorites.ts (14 lines - 0.1%)
+        - adjustDifficulty.ts (11 lines - 0.1%)
+        - continueSession.ts (87 lines - 0.6%)
+        - generateSuggestions.ts (6 lines - 0%)
+        - logSession.ts (6 lines - 0%)
+        - provideFeedback.ts (21 lines - 0.1%)
+        - startSession.ts (41 lines - 0.3%)
+        - updateGamification.ts (7 lines - 0%)
+
+</details>
+
+</details>
+    <details><summary>📂 **story** (1271 lines - 8.6%)</summary>
 
       <details><summary>📂 **domain** (87 lines - 0.6%)</summary>
 
@@ -431,7 +456,7 @@
 
         - FirestoreStoryRepo.ts (83 lines - 0.6%)
         - saveStory.ts (12 lines - 0.1%)
-        - sendStoryPromptToGemini.ts (36 lines - 0.3%)
+        - sendStoryPromptToGemini.ts (36 lines - 0.2%)
 
 </details>
       <details><summary>📂 **prompts** (43 lines - 0.3%)</summary>
@@ -439,7 +464,7 @@
         - buildStoryPrompt.ts (43 lines - 0.3%)
 
 </details>
-      <details><summary>📂 **ui** (921 lines - 6.4%)</summary>
+      <details><summary>📂 **ui** (921 lines - 6.3%)</summary>
 
         <details><summary>📂 **components** (177 lines - 1.2%)</summary>
 
@@ -453,20 +478,20 @@
           - useGenerateStoryFlow.ts (54 lines - 0.4%)
 
 </details>
-        <details><summary>📂 **pages** (271 lines - 1.9%)</summary>
+        <details><summary>📂 **pages** (271 lines - 1.8%)</summary>
 
           - StoryFullView.tsx (130 lines - 0.9%)
           - StoryGeneratorPage.tsx (73 lines - 0.5%)
           - StoryPage.tsx (68 lines - 0.5%)
 
 </details>
-        <details><summary>📂 **styles** (419 lines - 2.9%)</summary>
+        <details><summary>📂 **styles** (419 lines - 2.8%)</summary>
 
           - StoryCard.module.css (78 lines - 0.5%)
           - StoryFullView.module.css (149 lines - 1%)
           - StoryGallery.module.css (52 lines - 0.4%)
           - StoryGeneratorForm.module.css (46 lines - 0.3%)
-          - StoryGeneratorPage.module.css (94 lines - 0.7%)
+          - StoryGeneratorPage.module.css (94 lines - 0.6%)
 
 </details>
 
@@ -483,7 +508,7 @@
 </details>
 
 </details>
-    <details><summary>📂 **word** (2206 lines - 15.3%)</summary>
+    <details><summary>📂 **word** (2206 lines - 15%)</summary>
 
       <details><summary>📂 **infra** (251 lines - 1.7%)</summary>
 
@@ -504,9 +529,9 @@
         - rephrasePrompt.js (47 lines - 0.3%)
 
 </details>
-      <details><summary>📂 **ui** (1706 lines - 11.9%)</summary>
+      <details><summary>📂 **ui** (1706 lines - 11.6%)</summary>
 
-        <details><summary>📂 **components** (636 lines - 4.4%)</summary>
+        <details><summary>📂 **components** (636 lines - 4.3%)</summary>
 
           <details><summary>📂 **definition** (49 lines - 0.3%)</summary>
 
@@ -568,7 +593,7 @@
 
 </details>
         - FormattedResponse.js (62 lines - 0.4%)
-        <details><summary>📂 **styles** (782 lines - 5.4%)</summary>
+        <details><summary>📂 **styles** (782 lines - 5.3%)</summary>
 
           - sharedSectionStyles.module.css (23 lines - 0.2%)
           - WordDefinitionBlock.module.css (78 lines - 0.5%)
@@ -578,10 +603,10 @@
           - WordFamilyBlock.module.css (64 lines - 0.4%)
           - WordGrammarBlock.module.css (62 lines - 0.4%)
           - WordHeader.module.css (170 lines - 1.2%)
-          - WordHeaderBlock.module.css (123 lines - 0.9%)
+          - WordHeaderBlock.module.css (123 lines - 0.8%)
           - WordResponse.module.css (32 lines - 0.2%)
           - WordTranslationBlock.module.css (44 lines - 0.3%)
-          - WordVocabularyBlock.module.css (22 lines - 0.2%)
+          - WordVocabularyBlock.module.css (22 lines - 0.1%)
 
 </details>
         - WordContentView.jsx (127 lines - 0.9%)
@@ -596,7 +621,7 @@
 </details>
 
 </details>
-    <details><summary>📂 **youglish** (283 lines - 2%)</summary>
+    <details><summary>📂 **youglish** (283 lines - 1.9%)</summary>
 
       <details><summary>📂 **infra** (52 lines - 0.4%)</summary>
 
@@ -619,9 +644,9 @@
 </details>
 
 </details>
-  <details><summary>📂 **infrastructure** (152 lines - 1.1%)</summary>
+  <details><summary>📂 **infrastructure** (154 lines - 1%)</summary>
 
-    <details><summary>📂 **firebase** (108 lines - 0.8%)</summary>
+    <details><summary>📂 **firebase** (108 lines - 0.7%)</summary>
 
       - favoritesAdmin.js (17 lines - 0.1%)
       - firebaseAdmin.js (16 lines - 0.1%)
@@ -630,18 +655,18 @@
       - firestoreClient.ts (28 lines - 0.2%)
 
 </details>
-    <details><summary>📂 **gemini** (44 lines - 0.3%)</summary>
+    <details><summary>📂 **gemini** (46 lines - 0.3%)</summary>
 
-      - sendToGemini.js (44 lines - 0.3%)
-
-</details>
+      - sendToGemini.js (46 lines - 0.3%)
 
 </details>
-  <details><summary>📂 **pages** (1345 lines - 9.4%)</summary>
+
+</details>
+  <details><summary>📂 **pages** (1285 lines - 8.7%)</summary>
 
     - _app.js (32 lines - 0.2%)
     - _document.js (13 lines - 0.1%)
-    <details><summary>📂 **api** (911 lines - 6.3%)</summary>
+    <details><summary>📂 **api** (919 lines - 6.2%)</summary>
 
       - annotate.js (8 lines - 0.1%)
       <details><summary>📂 **comprehension** (42 lines - 0.3%)</summary>
@@ -655,8 +680,9 @@
       - evaluateSpeech.js (89 lines - 0.6%)
       - explainGrammar.js (30 lines - 0.2%)
       - explainMistake.js (30 lines - 0.2%)
-      <details><summary>📂 **favorites** (24 lines - 0.2%)</summary>
+      <details><summary>📂 **favorites** (47 lines - 0.3%)</summary>
 
+        - add.ts (23 lines - 0.2%)
         - get.ts (10 lines - 0.1%)
         - remove.ts (14 lines - 0.1%)
 
@@ -671,7 +697,7 @@
       <details><summary>📂 **history** (48 lines - 0.3%)</summary>
 
         - fetch.ts (26 lines - 0.2%)
-        - save.ts (22 lines - 0.2%)
+        - save.ts (22 lines - 0.1%)
 
 </details>
       - hoverInfo.js (20 lines - 0.1%)
@@ -680,23 +706,18 @@
 
         - [playlistId].js (33 lines - 0.2%)
         - create.ts (27 lines - 0.2%)
-        - delete.ts (22 lines - 0.2%)
+        - delete.ts (22 lines - 0.1%)
         - index.js (14 lines - 0.1%)
-        - rename.ts (22 lines - 0.2%)
+        - rename.ts (22 lines - 0.1%)
 
 </details>
       - sentence.js (1 lines - 0%)
-      <details><summary>📂 **speaking** (15 lines - 0.1%)</summary>
-
-        - saveLog.js (15 lines - 0.1%)
-
-</details>
       - speakingPrompt.js (1 lines - 0%)
       <details><summary>📂 **story** (127 lines - 0.9%)</summary>
 
         - delete.ts (19 lines - 0.1%)
         - favorites.ts (25 lines - 0.2%)
-        - generate.ts (36 lines - 0.3%)
+        - generate.ts (36 lines - 0.2%)
         - initialData.ts (47 lines - 0.3%)
 
 </details>
@@ -737,9 +758,9 @@
       - index.js (5 lines - 0%)
 
 </details>
-    <details><summary>📂 **quiz** (228 lines - 1.6%)</summary>
+    <details><summary>📂 **quiz** (228 lines - 1.5%)</summary>
 
-      <details><summary>📂 **delf** (182 lines - 1.3%)</summary>
+      <details><summary>📂 **delf** (182 lines - 1.2%)</summary>
 
         <details><summary>📂 **comprehension-ecrite** (112 lines - 0.8%)</summary>
 
@@ -747,11 +768,11 @@
           - index.js (74 lines - 0.5%)
 
 </details>
-        <details><summary>📂 **comprehension-orale** (22 lines - 0.2%)</summary>
+        <details><summary>📂 **comprehension-orale** (22 lines - 0.1%)</summary>
 
-          <details><summary>📂 **[level]** (22 lines - 0.2%)</summary>
+          <details><summary>📂 **[level]** (22 lines - 0.1%)</summary>
 
-            - [testId].tsx (22 lines - 0.2%)
+            - [testId].tsx (22 lines - 0.1%)
 
 </details>
 
@@ -772,26 +793,21 @@
       - index.js (2 lines - 0%)
 
 </details>
-    <details><summary>📂 **speak** (73 lines - 0.5%)</summary>
+    <details><summary>📂 **speak** (5 lines - 0%)</summary>
 
-      <details><summary>📂 **[level]** (19 lines - 0.1%)</summary>
-
-        - [scenario].js (19 lines - 0.1%)
-
-</details>
-      - index.js (54 lines - 0.4%)
+      - index.js (5 lines - 0%)
 
 </details>
 
 </details>
-  <details><summary>📂 **presentation** (1178 lines - 8.2%)</summary>
+  <details><summary>📂 **presentation** (1178 lines - 8%)</summary>
 
     <details><summary>📂 **layout** (48 lines - 0.3%)</summary>
 
       - Layout.js (48 lines - 0.3%)
 
 </details>
-    <details><summary>📂 **pages** (541 lines - 3.8%)</summary>
+    <details><summary>📂 **pages** (541 lines - 3.7%)</summary>
 
       - HomePage.js (199 lines - 1.4%)
       - MiniStoryCard.tsx (98 lines - 0.7%)
@@ -805,10 +821,10 @@
 
 </details>
       - QuizPage.js (53 lines - 0.4%)
-      - SearchPage.js (108 lines - 0.8%)
+      - SearchPage.js (108 lines - 0.7%)
 
 </details>
-    <details><summary>📂 **styles** (589 lines - 4.1%)</summary>
+    <details><summary>📂 **styles** (589 lines - 4%)</summary>
 
       - HomePageRedesign.module.css (275 lines - 1.9%)
       - MiniStoryCard.module.css (79 lines - 0.5%)
@@ -818,9 +834,9 @@
 </details>
 
 </details>
-  <details><summary>📂 **shared** (1726 lines - 12%)</summary>
+  <details><summary>📂 **shared** (1726 lines - 11.7%)</summary>
 
-    <details><summary>📂 **components** (924 lines - 6.4%)</summary>
+    <details><summary>📂 **components** (924 lines - 6.3%)</summary>
 
       - FadeInOnScroll.js (16 lines - 0.1%)
       - FadeInWhenVisible.jsx (28 lines - 0.2%)
@@ -835,11 +851,11 @@
 </details>
       - Navbar.js (59 lines - 0.4%)
       - Navbar.module.css (150 lines - 1%)
-      - NotFoundBlock.js (36 lines - 0.3%)
+      - NotFoundBlock.js (36 lines - 0.2%)
       - ShimmerLoader.jsx (13 lines - 0.1%)
       - ShimmerLoader.module.css (45 lines - 0.3%)
       - Sidebar.js (83 lines - 0.6%)
-      - Sidebar.module.css (169 lines - 1.2%)
+      - Sidebar.module.css (169 lines - 1.1%)
 
 </details>
     <details><summary>📂 **context** (70 lines - 0.5%)</summary>
@@ -882,7 +898,7 @@
 
       - colors.css (104 lines - 0.7%)
       - FormattedResponse.module.css (21 lines - 0.1%)
-      - globals.css (80 lines - 0.6%)
+      - globals.css (80 lines - 0.5%)
       - Layout.module.css (84 lines - 0.6%)
 
 </details>
@@ -911,7 +927,7 @@
 </details>
 
 </details>
-<details><summary>📂 **utils** (109 lines - 0.8%)</summary>
+<details><summary>📂 **utils** (109 lines - 0.7%)</summary>
 
   - graphBuilder.js (30 lines - 0.2%)
   <details><summary>📂 **helpers** (63 lines - 0.4%)</summary>
@@ -927,4 +943,4 @@
 
 </details>
 
-**Total Lines of Code:** 14376
+**Total Lines of Code:** 14711
